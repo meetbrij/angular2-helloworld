@@ -1,11 +1,9 @@
-# Basic Angular website 
+# Angular 2 Hello World app 
 
 Tools used
 - node and npm
-- gulp
 
-A basic Single Page Angular website which uses routing for various views.
-Data for some views is loaded from JSON
+A basic Angular Hello World app.
 
 clone repo and run the following commands
 `npm start`
